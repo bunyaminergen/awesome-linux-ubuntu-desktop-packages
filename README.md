@@ -576,7 +576,7 @@ sudo snap install btop
 
 # pip
 
-- **AWS SAM**:
+- **AWS CLI**:
 
 ```bash
 pip install awscli
