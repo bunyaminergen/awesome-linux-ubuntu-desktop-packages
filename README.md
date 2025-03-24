@@ -30,15 +30,21 @@ enhance your Ubuntu desktop environment.
 sudo ubuntu-drivers autoinstall
 ```
 
+---
+
+# apt
+
+- **ubuntu-drivers-common**:
+
+```bash
+sudo apt install ubuntu-drivers-common
+```
+
 - **build-essential**:
 
 ```bash
 sudo apt install build-essential
 ```
-
----
-
-# apt
 
 - **Wireshark**:
 
