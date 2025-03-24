@@ -496,6 +496,12 @@ sudo apt install default-jdk maven gradle
 sudo apt install nvidia-cuda-toolkit
 ```
 
+- **mesa-utils mesa-vulkan-drivers**:
+
+```bash
+sudo apt install mesa-utils mesa-vulkan-drivers
+```
+
 ---
 
 # snap
