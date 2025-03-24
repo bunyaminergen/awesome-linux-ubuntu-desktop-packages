@@ -524,13 +524,13 @@ sudo snap install discord
 sudo snap install drawio
 ```
 
-- **Pycharm Community **:
+- **Pycharm Community**:
 
 ```bash
 sudo snap install pycharm-community --classic
 ```
 
-- **Pycharm Professional **:
+- **Pycharm Professional**:
 
 ```bash
 sudo snap install pycharm-professional --classic
