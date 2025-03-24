@@ -1,3 +1,27 @@
+<div align="center">
+
+# Awesome Linux Ubuntu Desktop Packages
+
+Awesome Linux Ubuntu Desktop Packages is a curated list of essential Linux packages and tools to quickly set up and
+enhance your Ubuntu desktop environment.
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+</div>
+
+---
+
+## Table of Contents
+
+- [Main](#main)
+- [Apt](#apt)
+- [Snap](#snap)
+- [Pip](#pip)
+- [Gnome Extension](#gnome-extension)
+- [Other](#other)
+
+---
+
 # main
 
 - **autoinstall**:
