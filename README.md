@@ -67,7 +67,8 @@ sudo apt install awscli
 - **Docker**:
 
 ```bash
-sudo apt install docker.io
+sudo apt install docker.io docker-compose
+sudo usermod -aG docker $USER
 ```
 
 - **FileZilla**:
@@ -500,6 +501,49 @@ sudo apt install nvidia-cuda-toolkit
 
 ```bash
 sudo apt install mesa-utils mesa-vulkan-drivers
+```
+
+- **tlp powertop**:
+
+```bash
+sudo apt install tlp powertop
+sudo systemctl enable tlp
+```
+
+- **gufw fail2ban clamav clamtk**:
+
+```bash
+sudo apt install gufw fail2ban clamav clamtk
+```
+
+- **zip unzip rar unrar p7zip-ful**:
+
+```bash
+sudo apt install zip unzip rar unrar p7zip-full
+```
+
+- **cups system-config-printer simple-scan sane**:
+
+```bash
+sudo apt install cups system-config-printer simple-scan sane
+```
+
+- **virtualbox**:
+
+```bash
+sudo apt install virtualbox virtualbox-ext-pack
+```
+
+- **Python**:
+
+```bash
+sudo apt install python3 python3-pip python3-venv
+```
+
+- **Java**:
+
+```bash
+sudo apt install default-jdk maven gradle
 ```
 
 ---
