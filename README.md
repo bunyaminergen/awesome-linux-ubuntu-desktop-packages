@@ -552,6 +552,12 @@ sudo apt install python3 python3-pip python3-venv
 sudo apt install default-jdk maven gradle
 ```
 
+- **texlive-full**:
+
+```bash
+sudo apt install texlive-full build-essential
+```
+
 ---
 
 # snap
